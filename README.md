@@ -15,7 +15,8 @@
 
 也可以在发布中下载：
 
-![image](https://github.com/lucienlmy/Menyoo-Translation/assets/101241027/52e29cca-61ee-485a-8fb5-ae991e9c9ed7)
+![image](https://github.com/lucienlmy/Menyoo-Translation/assets/101241027/7e9159c5-921c-408f-ade1-8e1da8335d7c)
+
 
 修改器下载地址：https://github.com/MAFINS/MenyooSP
 
