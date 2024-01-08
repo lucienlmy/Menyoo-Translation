@@ -9,6 +9,9 @@
 如果你使用过程中发现有汉化不准确的地方，并且你也想给模组社区出一份力，可以点开项目文件列表中“chinese-汉化中.json”文件，然后点击右上角的铅笔图标进行编辑修改。可以按ctrl+F进行关键字查找，左边是原始字符，右边是翻译汉化。修改完后点击右上角的绿色按钮：commit changes进行提交，我会审核通过后就可以让你的翻译出现在文件中，更新之后的文件可以直接点击此处下载![image](https://github.com/lucienlmy/Menyoo-Translation/assets/101241027/69b1b2ed-4e5f-43c1-b87b-91608574074c)
 。
 
+也可以在发布中下载：![image](https://github.com/lucienlmy/Menyoo-Translation/assets/101241027/52e29cca-61ee-485a-8fb5-ae991e9c9ed7)
+
+
 PS：因为是用软件提取的字符所以会有许多乱码和多余的不明所以的字符，可以不用管，只需要翻译修改器内出现的词语。里面的格式不要修改，比如那些标点符号，只需要修改引号之间的字符。
 
 Bilibili：[羽一大魔王](https://space.bilibili.com/5941903)https://space.bilibili.com/5941903
