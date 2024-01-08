@@ -17,6 +17,7 @@
 
 ![image](https://github.com/lucienlmy/Menyoo-Translation/assets/101241027/52e29cca-61ee-485a-8fb5-ae991e9c9ed7)
 
+修改器下载地址：https://github.com/MAFINS/MenyooSP
 
 PS：因为是用软件提取的字符所以会有许多乱码和多余的不明所以的字符，可以不用管，只需要翻译修改器内出现的词语。里面的格式不要修改，比如那些标点符号，只需要修改引号之间的字符。
 
