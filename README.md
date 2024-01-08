@@ -6,8 +6,10 @@
 
 作者提供的语言文件示例的字符（在language文件夹中）仅仅只有修改器庞大词库的5%左右（个人估算），并且许多字符如果不通过第三方软件是无法找到准确的原始字符，比如游戏里面你看到的是词语是12345，但是实际字符可能是 ~r~12345 （必须找到准确的原始字符，你的翻译才会被读取），因此我通过软件将修改器内的字符全部提取并通过Excel表格技巧转换成修改器提供的语言文件一样的格式，通过谷歌机翻了所有，再润色了一部分然后上传到此处。
 		
-如果你使用过程中发现有汉化不准确的地方，并且你也想给模组社区出一份力，可以点开项目文件列表中“chinese-汉化中.json”文件，然后点击右上角的铅笔图标![Uploading image.png…]()
+如果你使用过程中发现有汉化不准确的地方，并且你也想给模组社区出一份力，可以点开项目文件列表中“chinese-汉化中.json”文件，然后点击右上角的铅笔图标![image](https://github.com/lucienlmy/Menyoo-Translation/assets/101241027/e4750e2d-0978-4dba-a16a-4757ccbee19d)
+
 进行编辑修改。可以按ctrl+F进行关键字查找，左边是原始字符，右边是翻译汉化。修改完后点击右上角的绿色按钮：commit changes进行提交，我会审核通过后就可以让你的翻译出现在文件中，更新之后的文件可以直接点击此处下载![image](https://github.com/lucienlmy/Menyoo-Translation/assets/101241027/69b1b2ed-4e5f-43c1-b87b-91608574074c)。
+
 
 也可以在发布中下载：
 ![image](https://github.com/lucienlmy/Menyoo-Translation/assets/101241027/52e29cca-61ee-485a-8fb5-ae991e9c9ed7)
